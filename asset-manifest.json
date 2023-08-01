@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Olexander1234/react-style/static/css/main.7acaea2f.css",
+    "main.js": "/Olexander1234/react-style/static/js/main.07d3183d.js",
+    "index.html": "/Olexander1234/react-style/index.html",
+    "main.7acaea2f.css.map": "/Olexander1234/react-style/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Olexander1234/react-style/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
